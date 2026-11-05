@@ -13,7 +13,7 @@ Estudio **Desarrollo de Aplicaciones Web (DAW)** con orientación Full Stack y t
 
 - 🎓 Cursando 2º de DAW
 - 🧑‍💻 Prácticas de empresa en 2027
-- 🌱 Aprendiendo ahora: Java, Linux y control de acceso (RBAC / ABAC)
+- 🌱 Aprendiendo ahora: TypeScript, Angular, Express y PostgreSQL
 - 📍 España
 
 ---
