@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Desarrollador Full Stack junior</b> · Estudiante de 2º DAW<br>
-  Construyo aplicaciones web bien estructuradas, mantenibles y pensadas para uso real.
 </p>
 
 ---
